@@ -1,3 +1,6 @@
+### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+
+
 <img align="left" alt="InsiderJanggo Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=InsiderJanggo&show_icons=true&hide_border=true" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=InsiderJanggo&layout=compact&theme=radical" />
