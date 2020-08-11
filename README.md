@@ -4,6 +4,10 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=InsiderJanggo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=InsiderJanggo&layout=compact&theme=radical" />
+
+
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InsiderJanggo&repo=github-readme-stats&theme=radical" />
+
 <!--
 **InsiderJanggo/InsiderJanggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
