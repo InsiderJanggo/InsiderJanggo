@@ -6,7 +6,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=InsiderJanggo&layout=compact&theme=radical" />
 
 
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InsiderJanggo&repo=github-readme-stats&theme=radical" />
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=InsiderJanggo&repo=ggnael-community&theme=radical" />
 
 <!--
 **InsiderJanggo/InsiderJanggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
